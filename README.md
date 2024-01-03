@@ -14,7 +14,7 @@
 
 
 
-<p><img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik-space&theme=dark&show_icons=true)" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-space&theme=dark&show_icons=true" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-space&" alt="kartik-space" /></p>
